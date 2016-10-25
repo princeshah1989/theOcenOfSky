@@ -1,0 +1,66 @@
+#headerDiv {
+    width: 700px;
+    height: 100px;
+    background-color: #0000A0;
+    border: 10px solid white;
+    padding-top: 10px;
+}
+
+.ManuDiv {
+    width: 100px;
+    height: 25px;
+    float: left;
+    color: white;
+    text-align: center;
+}
+
+#middleDiv {
+    width: 700px;
+    height: 700px;
+    background-color: blue;
+    border: 10px solid white;
+}
+
+#picDiv {
+    width: 550px;
+    height: 220px;
+    border: 10px solid white;
+    position: relative;
+    bottom: 50px;
+    left: 75px;
+}
+
+img {
+    width: 550px;
+    height: 220px;
+}
+
+h1 {
+    color: white;
+    font: bold 24px/45px Georgia, serif;
+    letter-spacing: -1px;
+    position: relative;
+    bottom: 245px;
+}
+
+#a {
+    color: #87CEFA;
+    font: 16px/45px Georgia, serif;
+    letter-spacing: -1px;
+    position: relative;
+    bottom: 305px;
+}
+
+#footerDiv {
+    width: 550px;
+    height: 400px;
+    background-color: #F5F5F5;
+    border: 10px solid white;
+    font-color: black;
+    font-size: 14px;
+    padding-top: 10px;
+    padding-left: 10px;
+    position: relative;
+    left: 75px;
+    right: 75px;
+}
